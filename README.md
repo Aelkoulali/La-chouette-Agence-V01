@@ -2,3 +2,5 @@
 
 ## 🎯 Website Upgrade (SEO + Performance + Accessibility)
 This project optimizes an existing website by improving SEO, performance, and accessibility while keeping the HTML/CSS code maintainable.
+
+Please visit this page to sse all changes made https://github.com/Aelkoulali/La-chouette-agence
